@@ -31,7 +31,8 @@ You need to build a simple app with the following features:
 
 ###  Requirements
 - Use **React Native (Expo or CLI)**  
-- Use **TypeScript**  
+- Use **TypeScript**
+- You may use **Tailwind** or **Material UI** 
 - Implement navigation using **React Navigation** or **Expo Router**  
 - You may use **necessary extensions or libraries** (Axios, React Query, etc.)  
 - Maintain clean and readable folder structure  
@@ -40,4 +41,4 @@ You need to build a simple app with the following features:
 
 ### Submission
 1. Ensure your app runs without errors on **Expo / Android Emulator**.
-2. commit your changes and push the code to the main branch
+2. Make sure to do the commits and push the latest code
