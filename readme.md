@@ -40,5 +40,4 @@ You need to build a simple app with the following features:
 
 ### Submission
 1. Ensure your app runs without errors on **Expo / Android Emulator**.
-2. Save and close your code editor when finished.
-3. Notify the evaluator once you’re done.
+2. commit your changes and push the code to the main branch
